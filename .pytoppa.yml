@@ -1,0 +1,15 @@
+dependencies:
+  - python-beautifulsoup
+  - python-requests
+  - python-html5lib
+  - python-dogpile.cache
+  - guessit
+  - enzyme
+  - babelfish
+  - charade
+  - pysrt
+releases:
+  - saucy
+  - precise
+  - quantal
+  - raring
