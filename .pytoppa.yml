@@ -2,7 +2,7 @@ dependencies:
   - python-beautifulsoup
   - python-requests
   - python-html5lib
-  - python-dogpile.cache
+  - python-dogpile.cache (>= 0.5.2)
   - guessit
   - enzyme
   - babelfish
